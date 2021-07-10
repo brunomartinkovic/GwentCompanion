@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/05/19 16:03:54.000.353,C:\Users\Bruno\Desktop\Gwent Guide\reinit.pas=</Transaction>
+    <Transaction>2021/03/01 20:56:51.000.297,=C:\Bruno\Fakultet\Završni\Gwent Guide-20210301T194706Z-001\Gwent Guide\Unit5.cpp</Transaction>
+    <Transaction>2021/04/11 18:24:36.000.653,C:\Bruno\Fakultet\Završni\Gwent Guide-20210301T194706Z-001\Gwent Guide\Project1.cbproj=C:\Bruno\Fakultet\Završni\Gwent Guide-20210301T194706Z-001\Gwent Guide\Gwent Companion.cbproj</Transaction>
+    <Transaction>2021/04/12 16:19:57.000.440,C:\Bruno\Fakultet\Završni\Gwent Companion\lang.cpp=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit3.cpp"/>
+    <File Path="Unit3.cpp"/>
+    <File Path="Unit3.dfm"/>
+    <File Path="Unit3.h"/>
+    <File Path="Unit4.cpp"/>
+    <File Path="Unit4.cpp"/>
+    <File Path="Unit4.dfm"/>
+    <File Path="Unit4.h"/>
+    <File Path="Unit5.cpp"/>
+    <File Path="Unit5.cpp"/>
+    <File Path="Unit5.dfm"/>
+    <File Path="Unit5.h"/>
+    <File Path="userinfo.cpp"/>
+    <File Path="userinfo.cpp"/>
+    <File Path="userinfo.h"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit2.h"/>
+    <File Path="decknames.cpp"/>
+    <File Path="decknames.cpp"/>
+    <File Path="decknames.h"/>
+    <File Path="Gwent Companion.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
